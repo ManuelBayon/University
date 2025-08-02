@@ -1,0 +1,6 @@
+# 1. Spécifications fonctionnelles et techniques (20%)
+# 3. Modélisation avec UML (40%)
+# 4. Développement (10%)
+# 5. Tests unitaires (10%)
+# 6. Rédaction documentation (10%)
+# 7. Publication et visibilité (10%)

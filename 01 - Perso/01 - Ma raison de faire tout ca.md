@@ -1,3 +1,6 @@
+
+---
+
 Ce n’est pas la technique ni les diplômes qui m’ont poussé à créer mon empire.  
 C’est ma manière d’être au monde.  
 La nécessité d’être libre.  
@@ -33,3 +36,16 @@ Il s’agit d’un outil :
 - pour comprendre, auditer et reconstruire les flux invisibles du monde.
 
 J’espère qu’un jour, il aidera d’autres êtres atypiques à penser par eux-mêmes.
+
+---
+
+**"Je n’ai jamais voulu devenir un geek.  
+Je voulais comprendre. Construire. Être libre.
+
+La tech, je m’en sers comme d’un levier – pas comme une cage.  
+Je veux coder le matin, marcher l’après-midi, et boire un verre le soir en regardant les montagnes.
+
+Je ne cours pas après la complexité.  
+Je cherche la clarté, l’impact, l’élégance.
+
+Et si je peux vivre tout ça… alors c’est gagné."**
