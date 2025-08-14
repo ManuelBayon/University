@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "560a0733427c6a65",
+        "id": "b281aa46c4312612",
         "type": "tabs",
         "children": [
           {
-            "id": "338011af06129e79",
+            "id": "3713bae39c2ed7f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Python/21 - Runtime checkable procotols.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "21 - Runtime checkable procotols"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 306.5
   },
   "right": {
     "id": "18b6576308314547",
@@ -168,39 +164,43 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "338011af06129e79",
+  "active": "3713bae39c2ed7f0",
   "lastOpenFiles": [
+    "01 - Perso/02 - Les 4 piliers que je développe.md",
+    "01 - Perso/01 - Mon système.md",
+    "02 - University/00 - Structure du monde/06 - Les bits cest de la chimie simplifiée.md",
+    "02 - University/08 - Biologie",
+    "02 - University/07 - Chimie",
+    "02 - University/04 - Structure du monde/06 -.md",
+    "02 - University/00 - Structure du monde/05 -  Le vivant est-il une affaire de chimie ou de bits.md",
+    "02 - University/00 - Structure du monde/04 - La complexité des processus chimiques.md",
+    "02 - University/00 - Structure du monde/03 - Après la data y'a quoi.md",
+    "02 - University/00 - Structure du monde/02 - Sauts ontologique.md",
+    "02 - University/03 - Python/01 - Runtime checks/02 - Contracts.md",
+    "03 - Infrastructure informatique/Moteur Export V2/2025-08-03 - Runtime checks.md",
+    "03 - Projets/Moteur Export V2/Runtime checks/2025.md",
+    "02 - University/03 - Python/01 - Runtime checks/01 - Intro.md",
+    "03 - Projets/Moteur Export V2/Runtime checks",
+    "03 - Infrastructure informatique/Moteur Export V2",
+    "02 - University/03 - Python/01 - Runtime checks/01 - Validation méthode.md",
+    "02 - University/03 - Python/02 - A classer/26 - Plugin injecté.md",
+    "02 - University/03 - Python/02 - A classer/01 - Dispatch table.md",
+    "02 - University/03 - Python/02 - A classer",
+    "02 - University/03 - Python/02 - A classer/22 - Validation runtime stricte et explicite.md",
+    "02 - University/06 - Finance",
+    "02 - University/03 - Python/02 - A classer/21 - Runtime checkable procotols.md",
+    "02 - University/03 - Python/01 - Runtime checks",
+    "02 - University/03 - Python/02 - A classer/20 - Fail fast.md",
+    "03 - Projets/01 - Journal export engine v2.md",
+    "03 - Infrastructure informatique",
+    "02 - University/03 - Python/02 - A classer/25 - Factorisation et élimination des duplications.md",
+    "02 - University/03 - Python/02 - A classer/24 - Tests fondamentaux (unitaires + intégration).md",
+    "02 - University/03 - Python/02 - A classer/23 - Traces et logs.md",
     "03 - Python/21 - Runtime checkable procotols.md",
     "01 - Psychologie/Sans titre.md",
     "01 - Psychologie/05 - L'inversion accusatoire.md",
     "01 - Psychologie/06 - Projection défensive.md",
-    "00 - Mon univers/03 - Le cheat code.md",
-    "01 - Psychologie/04 - Les mécanismes d'exclusions silencieuse.md",
-    "04 - Structure du monde/01 - Brouillon.md",
-    "01 - Psychologie/03 - Les mécanismes d'exclusions silencieuse.md",
-    "03 - Python/19 - Dissociation entre typage générique statique et cohérence runtime.md",
-    "03 - Python/20 - Fail fast.md",
-    "05 - Maths/01 - Espaces vectoriels.md",
-    "07 - Idées projets/02 - Outil de visualisation sécurisée.md",
     "04 - Structure du monde",
-    "05 - Maths",
-    "02 - Architecture logicielle/04 - Process/02 - Process repartition.md",
-    "02 - Architecture logicielle/04 - Process/01 - Lead dev development process.md",
-    "06 - Manuel BAYON/01 - Base  biographie.md",
-    "03 - Python/18 - Namespace.md",
-    "03 - Python/16 - Alias de type.md",
-    "03 - Python/17 - Lambda.md",
-    "07 - Idées projets/01 - Outil UML pour Python.md",
-    "06 - Manuel BAYON/03 - Conflit juridique avec Amber Technologies.md",
-    "06 - Manuel BAYON/02 - Ma raison de faire tout ca.md",
-    "06 - Manuel BAYON",
-    "03 - Python/15 - GitHub.md",
-    "03 - Python/14 - Méta programmation.md",
-    "03 - Python/12 - Pydantic - Parsing.md",
-    "03 - Python/13 - Coercition.md",
-    "03 - Python/11 - args VS kwargs.md",
-    "02 - Architecture logicielle/04 - Process",
-    "07 - Idées projets",
-    "02 - Architecture logicielle/03 - Concepts"
+    "05 - Maths"
   ]
 }
