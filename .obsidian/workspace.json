@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b281aa46c4312612",
+        "id": "ea45b468fb8356a2",
         "type": "tabs",
         "children": [
           {
-            "id": "3713bae39c2ed7f0",
+            "id": "bcff6d28978dd068",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02 - University/03 - Python/01 - Typage et cohérence des données/04 -  Frontière statique-runtime/01 - Limites typage stricts avec des plugins.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "01 - Limites typage stricts avec des plugins"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 704.5
   },
   "right": {
     "id": "18b6576308314547",
@@ -164,43 +168,43 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "3713bae39c2ed7f0",
+  "active": "26a435fda64e7fb4",
   "lastOpenFiles": [
-    "01 - Perso/02 - Les 4 piliers que je développe.md",
-    "01 - Perso/01 - Mon système.md",
+    "02 - University/03 - Python/01 - Typage et cohérence des données/01 - Typage statique/02 - Mise en œuvre du typage statique strict.md",
+    "02 - University/03 - Python/01 - Typage et cohérence des données/04 -  Frontière statique-runtime/01 - Limites typage stricts avec des plugins.md",
+    "02 - University/03 - Python/01 - Typage et cohérence des données/04 -  Frontière statique-runtime",
+    "02 - University/03 - Python/01 - Typage et cohérence des données/03 - Cohérence métier/01 - Composants validation cohérence métier.md",
+    "02 - University/03 - Python/01 - Typage et cohérence des données/01 - Typage statique/01 -  Composants du typage statique en Python.md",
+    "02 - University/03 - Python/01 - Typage et cohérence des données/02 - Validation runtime/01 - Composants de la validation runtime.md",
+    "02 - University/03 - Python/02 - Typage et cohérence des données/01 - Typage statique/01 - Annotations de base",
+    "02 - University/03 - Python/03 - Raccourcis/01 - Pycharm.md",
+    "02 - University/03 - Python/01 - Typage et cohérence des données/03 - Cohérence métier",
+    "02 - University/03 - Python/01 - Typage et cohérence des données/02 - Validation runtime",
+    "02 - University/03 - Python/01 - Typage et cohérence des données/01 - Typage statique",
+    "02 - University/03 - Python/02 - Typage et cohérence des données/01 - Typage et cohérence des données/02 - Annotations.md",
+    "02 - University/03 - Python/02 - Typage et cohérence des données/01 - Typage et cohérence des données/01 - Intro.md",
+    "02 - University/03 - Python/02 - Typage et cohérence des données/01 - Typage et cohérence des données",
+    "02 - University/03 - Python/03 - Raccourcis",
+    "02 - University/03 - Python/02 - Typage et cohérence des données/03 - Typage strict runtime.md",
+    "02 - University/03 - Python/02 - Typage et cohérence des données/04 - Validation cohérence métier.md",
+    "02 - University/03 - Python/02 - Type checking python/03 - Exemple concret.md",
+    "02 - University/03 - Python/02 - Type checking python/02 - Patterns d’architecture pour assurer la compatibilité.md",
+    "02 - University/03 - Python/01 - Runtime checks/01 - Intro.md",
+    "02 - University/03 - Python/01 - Typage et cohérence des données",
+    "02 - University/03 - Python/01 - Runtime checks/02 - Contracts.md",
+    "01 - Perso/03 - Mon univers/01 - Mon système.md",
+    "01 - Perso/03 - Mon univers/03 - Écosystème - Holding.md",
+    "01 - Perso/03 - Mon univers",
+    "01 - Perso/03 - Mon univers/02 - Les 4 piliers que je développe.md",
     "02 - University/00 - Structure du monde/06 - Les bits cest de la chimie simplifiée.md",
     "02 - University/08 - Biologie",
-    "02 - University/07 - Chimie",
     "02 - University/04 - Structure du monde/06 -.md",
     "02 - University/00 - Structure du monde/05 -  Le vivant est-il une affaire de chimie ou de bits.md",
     "02 - University/00 - Structure du monde/04 - La complexité des processus chimiques.md",
     "02 - University/00 - Structure du monde/03 - Après la data y'a quoi.md",
     "02 - University/00 - Structure du monde/02 - Sauts ontologique.md",
-    "02 - University/03 - Python/01 - Runtime checks/02 - Contracts.md",
     "03 - Infrastructure informatique/Moteur Export V2/2025-08-03 - Runtime checks.md",
     "03 - Projets/Moteur Export V2/Runtime checks/2025.md",
-    "02 - University/03 - Python/01 - Runtime checks/01 - Intro.md",
-    "03 - Projets/Moteur Export V2/Runtime checks",
-    "03 - Infrastructure informatique/Moteur Export V2",
-    "02 - University/03 - Python/01 - Runtime checks/01 - Validation méthode.md",
-    "02 - University/03 - Python/02 - A classer/26 - Plugin injecté.md",
-    "02 - University/03 - Python/02 - A classer/01 - Dispatch table.md",
-    "02 - University/03 - Python/02 - A classer",
-    "02 - University/03 - Python/02 - A classer/22 - Validation runtime stricte et explicite.md",
-    "02 - University/06 - Finance",
-    "02 - University/03 - Python/02 - A classer/21 - Runtime checkable procotols.md",
-    "02 - University/03 - Python/01 - Runtime checks",
-    "02 - University/03 - Python/02 - A classer/20 - Fail fast.md",
-    "03 - Projets/01 - Journal export engine v2.md",
-    "03 - Infrastructure informatique",
-    "02 - University/03 - Python/02 - A classer/25 - Factorisation et élimination des duplications.md",
-    "02 - University/03 - Python/02 - A classer/24 - Tests fondamentaux (unitaires + intégration).md",
-    "02 - University/03 - Python/02 - A classer/23 - Traces et logs.md",
-    "03 - Python/21 - Runtime checkable procotols.md",
-    "01 - Psychologie/Sans titre.md",
-    "01 - Psychologie/05 - L'inversion accusatoire.md",
-    "01 - Psychologie/06 - Projection défensive.md",
-    "04 - Structure du monde",
-    "05 - Maths"
+    "02 - University/03 - Python/01 - Runtime checks/01 - Validation méthode.md"
   ]
 }
